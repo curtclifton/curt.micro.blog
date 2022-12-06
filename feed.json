@@ -1,0 +1,218 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Curt Clifton",
+	"icon": "https://micro.blog/curt/avatar.jpg",
+	"home_page_url": "https://microblog.curtclifton.net/",
+	"feed_url": "https://microblog.curtclifton.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://curt.micro.blog/2022/11/27/im-finally-reading.html",
+				
+				"content_html": "<p>I’m finally reading Good Omens. It’s right in the sweet spot for me: hilarious, absurd, and sacrilegious, with delightful turns of phrase on every page.</p>\n",
+				"content_text": "I’m finally reading Good Omens. It’s right in the sweet spot for me: hilarious, absurd, and sacrilegious, with delightful turns of phrase on every page. \n",
+				"date_published": "2022-11-27T08:45:32-08:00",
+				"url": "https://microblog.curtclifton.net/2022/11/27/im-finally-reading.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2022/11/26/looks-like-my.html",
+				
+				"content_html": "<p>Looks like my afternoon of DNS hacking almost worked. Mastodon cross-posting from micro.blog might have been the only casualty.</p>\n",
+				"content_text": "Looks like my afternoon of DNS hacking almost worked. Mastodon cross-posting from micro.blog might have been the only casualty. \n",
+				"date_published": "2022-11-26T17:45:25-08:00",
+				"url": "https://microblog.curtclifton.net/2022/11/26/looks-like-my.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2022/11/26/spent-an-enjoyable.html",
+				
+				"content_html": "<p>Spent an enjoyable Saturday afternoon hacking on DNS, GitHub pages, and micro.blog settings. I think I finally have everything behind SSL certificates and updating correctly.</p>\n\n<p>Either that or this post will fail and I’ll also have plans for an enjoyable <em>Sunday</em> afternoon.</p>\n",
+				"content_text": "Spent an enjoyable Saturday afternoon hacking on DNS, GitHub pages, and micro.blog settings. I think I finally have everything behind SSL certificates and updating correctly. \n\nEither that or this post will fail and I’ll also have plans for an enjoyable _Sunday_ afternoon.\n",
+				"date_published": "2022-11-26T17:36:25-08:00",
+				"url": "https://microblog.curtclifton.net/2022/11/26/spent-an-enjoyable.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2022/11/15/062427.html",
+				
+				"content_html": "<p>It’s time to check out Mastodon, I hear. I’m <code>@curtclifton@indieweb.social</code> over there. (over here? cross-posting is so confusing)</p>\n",
+				"content_text": "It’s time to check out Mastodon, I hear. I’m `@curtclifton@indieweb.social` over there. (over here? cross-posting is so confusing)\n",
+				"date_published": "2022-11-15T06:24:27-08:00",
+				"url": "https://microblog.curtclifton.net/2022/11/15/062427.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2019/12/07/finally-took-my.html",
+				
+				"content_html": "<p>Finally took my Exo print to be framed and found this behind it. Li is the best!</p>\n\n<p><img src=\"uploads/2019/d5d72894f7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Finally took my Exo print to be framed and found this behind it. Li is the best!\n\n<img src=\"uploads/2019/d5d72894f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-12-07T19:19:32-08:00",
+				"url": "https://microblog.curtclifton.net/2019/12/07/finally-took-my.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2019/08/11/red-argentine-shrimp.html",
+				
+				"content_html": "<p>Red Argentine shrimp and diver scallops on the grill. Jalapeño-coconut marinade.</p>\n\n<p><img src=\"uploads/2019/916e4e03e7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Red Argentine shrimp and diver scallops on the grill. Jalapeño-coconut marinade. \n\n<img src=\"uploads/2019/916e4e03e7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-08-11T17:34:30-08:00",
+				"url": "https://microblog.curtclifton.net/2019/08/11/red-argentine-shrimp.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2019/06/15/its-a-beautiful.html",
+				
+				"content_html": "<p>It’s a beautiful night for a ballgame.\n<img src=\"https://microblog.curtclifton.net/uploads/2019/4ab6e827ae.jpg\" alt=\"093C5E3B-A9D6-43E7-A923-E76DA475A613.jpg\" /></p>\n",
+				"content_text": "It’s a beautiful night for a ballgame. \n![093C5E3B-A9D6-43E7-A923-E76DA475A613.jpg](https://microblog.curtclifton.net/uploads/2019/4ab6e827ae.jpg)\n",
+				"date_published": "2019-06-15T19:37:30-08:00",
+				"url": "https://microblog.curtclifton.net/2019/06/15/its-a-beautiful.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2019/06/15/ballpark-number-go.html",
+				
+				"content_html": "<p>Ballpark number 7. Go Cubs!</p>\n\n<p><img src=\"uploads/2019/d8aee90dd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ballpark number 7. Go Cubs!\n\n<img src=\"uploads/2019/d8aee90dd4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-06-15T17:51:25-08:00",
+				"url": "https://microblog.curtclifton.net/2019/06/15/ballpark-number-go.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2019/05/17/me-employee-and.html",
+				
+				"content_html": "<p>Me, employee 7, and the original Mac pirate flag.</p>\n\n<p><img src=\"uploads/2019/a26b908f7e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Me, employee 7, and the original Mac pirate flag. \n\n<img src=\"uploads/2019/a26b908f7e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-05-17T18:48:18-08:00",
+				"url": "https://microblog.curtclifton.net/2019/05/17/me-employee-and.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2019/05/17/stay-safe-out.html",
+				
+				"content_html": "<p>Stay safe out there.</p>\n\n<p><img src=\"uploads/2019/4d68fc9fd5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Stay safe out there. \n\n<img src=\"uploads/2019/4d68fc9fd5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-05-17T10:51:54-08:00",
+				"url": "https://microblog.curtclifton.net/2019/05/17/stay-safe-out.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2019/03/03/its-good-to.html",
+				
+				"content_html": "<p>It’s good to be running again.</p>\n\n<p><img src=\"uploads/2019/a751a8b998.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It’s good to be running again. \n\n<img src=\"uploads/2019/a751a8b998.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-03-03T17:55:40-08:00",
+				"url": "https://microblog.curtclifton.net/2019/03/03/its-good-to.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2019/02/04/skied-in-a.html",
+				
+				"content_html": "<p>Skied in a blizzard. Check.</p>\n\n<p><img src=\"uploads/2019/b857e10c35.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Skied in a blizzard. Check. \n\n<img src=\"uploads/2019/b857e10c35.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-02-04T14:02:24-08:00",
+				"url": "https://microblog.curtclifton.net/2019/02/04/skied-in-a.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2019/02/03/just-a-bit.html",
+				
+				"content_html": "<p>Just a <em>bit</em> of snow in Tahoe.</p>\n\n<p><img src=\"uploads/2019/ac0070ae2d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Just a _bit_ of snow in Tahoe. \n\n<img src=\"uploads/2019/ac0070ae2d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-02-02T16:01:57-08:00",
+				"url": "https://microblog.curtclifton.net/2019/02/02/just-a-bit.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/12/08/defying-gravity.html",
+				
+				"content_html": "<p>Defying Gravity…</p>\n\n<p><img src=\"uploads/2018/9fdd71bacd.jpg\" width=\"471\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Defying Gravity…\n\n<img src=\"uploads/2018/9fdd71bacd.jpg\" width=\"471\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-07T16:46:07-08:00",
+				"url": "https://microblog.curtclifton.net/2018/12/07/defying-gravity.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/11/22/on-this-thanksgiving.html",
+				
+				"content_html": "<p>On this Thanksgiving we’re saying “mahalo”and substituting fresh grilled shrimp for turkey.</p>\n\n<p><img src=\"uploads/2018/8ca452d2b7.jpg\" width=\"600\" height=\"400\" /></p>\n",
+				"content_text": "On this Thanksgiving we’re saying “mahalo”and substituting fresh grilled shrimp for turkey. \n\n<img src=\"uploads/2018/8ca452d2b7.jpg\" width=\"600\" height=\"400\" />\n",
+				"date_published": "2018-11-22T10:11:15-08:00",
+				"url": "https://microblog.curtclifton.net/2018/11/22/on-this-thanksgiving.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/11/18/i-look-forward.html",
+				
+				"content_html": "<p>I look forward to being able to breathe again!\n<img src=\"http://microblog.curtclifton.net/uploads/2018/da8a8cbd92.jpg\" alt=\"179AA098-4529-4B97-B039-AD6311A7A4FD.jpg\" /></p>\n",
+				"content_text": "I look forward to being able to breathe again!\n![179AA098-4529-4B97-B039-AD6311A7A4FD.jpg](http://microblog.curtclifton.net/uploads/2018/da8a8cbd92.jpg)\n",
+				"date_published": "2018-11-18T06:29:08-08:00",
+				"url": "https://microblog.curtclifton.net/2018/11/18/i-look-forward.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/11/18/were-going-in.html",
+				
+				"content_html": "<p>We’re going in the right direction today. Aloha!</p>\n",
+				"content_text": "We’re going in the right direction today. Aloha!\n",
+				"date_published": "2018-11-18T06:23:48-08:00",
+				"url": "https://microblog.curtclifton.net/2018/11/18/were-going-in.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/11/16/with-the-trump.html",
+				
+				"content_html": "<p>“… with the Trump tax cut, the doctrine has failed again. Unfortunately, it’s difficult to get politicians to understand something when their campaign contributions depend on their not understanding it.” —<a href=\"https://nyti.ms/2zaXiAg?smid=nytcore-ios-share\">Paul Krugman</a></p>\n",
+				"content_text": "“… with the Trump tax cut, the doctrine has failed again. Unfortunately, it’s difficult to get politicians to understand something when their campaign contributions depend on their not understanding it.” —[Paul Krugman](https://nyti.ms/2zaXiAg?smid=nytcore-ios-share)\n",
+				"date_published": "2018-11-16T08:04:24-08:00",
+				"url": "https://microblog.curtclifton.net/2018/11/16/with-the-trump.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/11/03/ready-to-vote.html",
+				
+				"content_html": "<p>Ready to vote.</p>\n\n<p><img src=\"uploads/2018/92d34b96c9.jpg\" width=\"450\" height=\"600\" /></p>\n",
+				"content_text": "Ready to vote. \n\n<img src=\"uploads/2018/92d34b96c9.jpg\" width=\"450\" height=\"600\" />\n",
+				"date_published": "2018-11-03T13:20:32-08:00",
+				"url": "https://microblog.curtclifton.net/2018/11/03/ready-to-vote.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/11/01/if-youre-sick.html",
+				
+				"content_html": "<p>“If you’re sick and tired, too, here is what you can do. Vote for Democrats on Tuesday. For every office. Regardless of who they are.” — <a href=\"https://apple.news/A_12NeKhBSAWt9WlJtOTzbw\">Max Boot</a></p>\n",
+				"content_text": "“If you’re sick and tired, too, here is what you can do. Vote for Democrats on Tuesday. For every office. Regardless of who they are.” — [Max Boot](https://apple.news/A_12NeKhBSAWt9WlJtOTzbw)\n",
+				"date_published": "2018-10-31T19:20:44-08:00",
+				"url": "https://microblog.curtclifton.net/2018/10/31/if-youre-sick.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/11/01/the-public-has.html",
+				
+				"content_html": "<p>“The public has seen Trump’s fusion of ethno-nationalism and orthodox GOP plutocracy put into governing practice, and is rejecting it.” —<a href=\"https://www.washingtonpost.com/blogs/plum-line/wp/2018/10/31/trumps-hate-and-lies-are-failing-two-new-studies-show-why/\">Greg Sargent</a> Let this be true and restore my faith in America.</p>\n",
+				"content_text": "“The public has seen Trump’s fusion of ethno-nationalism and orthodox GOP plutocracy put into governing practice, and is rejecting it.” —[Greg Sargent](https://www.washingtonpost.com/blogs/plum-line/wp/2018/10/31/trumps-hate-and-lies-are-failing-two-new-studies-show-why/) Let this be true and restore my faith in America.\n",
+				"date_published": "2018-10-31T17:32:35-08:00",
+				"url": "https://microblog.curtclifton.net/2018/10/31/the-public-has.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/11/01/the-reason-for.html",
+				
+				"content_html": "<p>“The reason for the talk about invasion is simple: Trump and Fox News are trying to manipulate white voters into supporting Republican candidates. There is considerable evidence from research experiments that scaring people makes them more conservative, at least temporarily.” —<a href=\"https://nyti.ms/2yKOil8?smid=nytcore-ios-share\">Nicholas Kristof</a></p>\n",
+				"content_text": "“The reason for the talk about invasion is simple: Trump and Fox News are trying to manipulate white voters into supporting Republican candidates. There is considerable evidence from research experiments that scaring people makes them more conservative, at least temporarily.” —[Nicholas Kristof](https://nyti.ms/2yKOil8?smid=nytcore-ios-share)\n",
+				"date_published": "2018-10-31T16:46:43-08:00",
+				"url": "https://microblog.curtclifton.net/2018/10/31/the-reason-for.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/10/28/in-the-trump.html",
+				
+				"content_html": "<p>“In the Trump era, people who should be shunned are embraced…” —<a href=\"https://apple.news/AZlRLRLkgQSi_w1EYHslqaw\">Karen Tumulty</a></p>\n",
+				"content_text": "“In the Trump era, people who should be shunned are embraced…” —[Karen Tumulty](https://apple.news/AZlRLRLkgQSi_w1EYHslqaw)\n",
+				"date_published": "2018-10-27T18:14:52-08:00",
+				"url": "https://microblog.curtclifton.net/2018/10/27/in-the-trump.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/10/27/the-angry-obsessive.html",
+				
+				"content_html": "<p>“The angry obsessive is absolutely vulnerable to being stoked, inflamed, and inspired by angry rhetoric. Speech can inspire violence. … It’s one reason why civility and a sense of proportion in your speech aren’t just abstract … concepts. They’re moral responsibilities for people with any kind of meaningful platform.” —<a href=\"https://www.nationalreview.com/corner/pipe-bomb-suspect-arrested-be-very-careful-with-the-crazy-label/\">David French</a></p>\n",
+				"content_text": "“The angry obsessive is absolutely vulnerable to being stoked, inflamed, and inspired by angry rhetoric. Speech can inspire violence. … It’s one reason why civility and a sense of proportion in your speech aren’t just abstract … concepts. They’re moral responsibilities for people with any kind of meaningful platform.” —[David French](https://www.nationalreview.com/corner/pipe-bomb-suspect-arrested-be-very-careful-with-the-crazy-label/)\n",
+				"date_published": "2018-10-27T13:45:25-08:00",
+				"url": "https://microblog.curtclifton.net/2018/10/27/the-angry-obsessive.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/10/27/trump-is-doing.html",
+				
+				"content_html": "<p>“Trump is doing the opposite. He is deliberately exacerbating our divisions for partisan gain. He is risking widespread political violence so that he and his Republican supporters can hold on to office.” —<a href=\"https://www.washingtonpost.com/opinions/what-is-happening-to-our-country/2018/10/27/47b462f6-da13-11e8-aeb7-ddcad4a0a54e_story.html\">Max Boot</a></p>\n",
+				"content_text": "“Trump is doing the opposite. He is deliberately exacerbating our divisions for partisan gain. He is risking widespread political violence so that he and his Republican supporters can hold on to office.” —[Max Boot](https://www.washingtonpost.com/opinions/what-is-happening-to-our-country/2018/10/27/47b462f6-da13-11e8-aeb7-ddcad4a0a54e_story.html)\n",
+				"date_published": "2018-10-27T13:34:12-08:00",
+				"url": "https://microblog.curtclifton.net/2018/10/27/trump-is-doing.html"
+			},
+			{
+				"id": "http://curt.micro.blog/2018/10/27/the-barbarian-savior.html",
+				
+				"content_html": "<p>“The barbarian savior loves to see a reporter body-slammed, to parade his ignorance, to strut his lies, to broadcast his bigotry, to empower rich Middle Eastern murderers, to humiliate a woman traumatized by sexual assault, to incite his followers to violence, …” —<a href=\"https://nyti.ms/2Aum2Eo?smid=nytcore-ios-share\">Roger Cohen</a></p>\n",
+				"content_text": "“The barbarian savior loves to see a reporter body-slammed, to parade his ignorance, to strut his lies, to broadcast his bigotry, to empower rich Middle Eastern murderers, to humiliate a woman traumatized by sexual assault, to incite his followers to violence, …” —[Roger Cohen](https://nyti.ms/2Aum2Eo?smid=nytcore-ios-share)\n",
+				"date_published": "2018-10-26T16:19:51-08:00",
+				"url": "https://microblog.curtclifton.net/2018/10/26/the-barbarian-savior.html"
+			}
+	]
+}
